@@ -1,4 +1,4 @@
-```html 
+
 <h1>HI there</h1>
     <div class="typing-effect">
         <span id="text"></span>
@@ -17,5 +17,4 @@
         <div class="skill frontend"></div>
         <div class="skill frontend"></div>
    </div>
-<script src=".script.js"></script>
-```
+
