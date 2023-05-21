@@ -16,7 +16,7 @@
         <div class="skill frontend"></div>
         <div class="skill frontend"></div>
    </div>
-   <script src='./script.js'></scrpt>
+<script src=".script.js"></script>
 
 
 ### Hi there 👋
