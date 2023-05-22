@@ -11,10 +11,5 @@
         <li>How to Reach me: rpbarmaiya@gmail.com</li>
     </ul>
 
-   <h1>My Skills</h1>
-
-   <div class="skills">
-        <div class="skill frontend"></div>
-        <div class="skill frontend"></div>
-   </div>
+ 
 
