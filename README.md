@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
 
-![banner (1)](https://thumbs.dreamstime.com/b/keep-learning-text-written-white-chalk-blackboard-51275815.jpg)
+![banner (1)](https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2023-02%2Fnode-tools.png&w=3840&q=50)
 <br />
 <br />
 
