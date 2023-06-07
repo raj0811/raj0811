@@ -25,12 +25,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<!-- <a href="https://app.daily.dev/ayushkanduri">
-<img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
-</a> -->
-<a href="https://app.daily.dev/ayushkanduri">
-  <img src="https://github.com/Ayush-Kanduri/Ayush-Kanduri/blob/master/devcard.svg" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
-</a>
+
 
 ### Hi, I'm Raj Barmaiya
 
