@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/rpbarmaiya?hr_r=1)
 
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://54.178.126.252:8011/)&emsp;
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://raj-b-portfolio.netlify.app/)&emsp;
 
 <br />
 
